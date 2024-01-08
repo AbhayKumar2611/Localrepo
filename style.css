@@ -4,3 +4,6 @@ p {
 h1 {
   background-size: 10px;
 }
+h3 {
+  background-position: center;
+}
